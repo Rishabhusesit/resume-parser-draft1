@@ -1,1 +1,5 @@
 flask-sqlalchemy
+transformers
+torch
+spacy
+flask
